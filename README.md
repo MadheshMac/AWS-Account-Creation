@@ -40,6 +40,8 @@ This experiment involves creating an AWS account, configuring security settings 
 ![Screenshot 2024-11-20 211108](https://github.com/user-attachments/assets/d932d453-f91b-4f59-b04c-ee21b9781920)
 
 
+![Screenshot 2024-09-26 113933](https://github.com/user-attachments/assets/930c4845-7197-4517-aca9-ca763c09535a)
+
 ## RESULT :
 
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account. 
